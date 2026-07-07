@@ -89,13 +89,16 @@ can extend this table.
 
 | Class | Meaning | Codes (principal) |
 |---|---|---|
-| `work_performed` | City/contractor did physical work | `AR-Request Completed`, `RC-Contractor Serviced`, `RC-Request Completed`, `COM-Request Completed`, `WC-Work Completed`, `SARH-*`, `SARC-*`, `PFR-*`, `LR-*`, `TR-*`, `BR-*`, `RSP-*`, `IWO-*`, `MNT-*`, `VM-*`, `VMRB-*`, `OPUVM-*`, `BF-*` |
-| `no_service_needed` | Crew responded; nothing to do | `QC-Item Not Out`, `NCPP-*`, `ASG-Already Serviced`, `UTM-Unable to Make`, `NAT-No Action Taken` |
-| `administrative_close` | Record closed without evidence of field work | `C-Closed`, `1004-Closed`, `RF-Receive and File`, `GI-General Information`, `IP-Information Provided`, `AAA-Assisted and Advised` |
+| `work_performed` | City/contractor did physical work | `AR-Request Completed`, `RC-Contractor Serviced`, `RC-Request Completed`, `COM-Request Completed`, `WC-Work Completed`, `SARH-*`, `SARC-*`, `PFR-*`, `LR-*`, `TR-*`, `BR-*`, `RSP-*`, `IWO-*`, `MNT-*`, `VM-*`, `VMRB-*`, `OPUVM-*`, `BF-*`, `R-Repaired`, `TSC-Trimmed for Clearance`, `AD-Request Completed` |
+| `no_service_needed` | Crew responded; nothing to do | `QC-Item Not Out`, `NCPP-*`, `ASG-Already Serviced`, `UTM-Unable to Make`, `NAT-No Action Taken`, `VNL-Vehicle Not at Location`, `NAR-No Action Required`, `BINS-Bin Empty-No Service`, `ASAT-Appears Safe at This Time` |
+| `administrative_close` | Record closed without evidence of field work | `C-Closed`, `1004-Closed`, `RF-Receive and File`, `GI-General Information`, `IP-Information Provided`, `AAA-Assisted and Advised`, `IO-Information Only`, `CL-CL - Closed` |
 | `acknowledged` | Report received; feeds programs, no work order | `C-Report has been received`, `C-Report has been referred out.` |
 | `referred` | Sent to external agency | `1003-Referral to External Department` |
 | `duplicate` | Duplicate of another case | `DUP-*`, `B-Duplicated Request`, `CDR-*` |
-| `cancelled` | Cancelled | `RCAN-*`, `1005-Cancelled`, `CANC-*`, `CG-Cancelled`, `RBI-Reschedule for Bulky Items` |
+| `cancelled` | Cancelled | `RCAN-*`, `1005-Cancelled`, `CANC-*`, `CG-Cancelled`, `RBI-Reschedule for Bulky Items`, `RWG-Reschedule for White Goods`, `REW-Reschedule for E-Waste`, `CCAN-Cancelled by Customer` |
+
+*Amended 2026-07-06 (notebook 03): 13 codes added via the unclassified-codes
+rule; residual unclassified now ~0.5% of terminal cases.*
 
 Notes:
 - "Success-rate" style metrics compare `work_performed` against
@@ -162,6 +165,11 @@ From [`myla311.md`](datasets/myla311.md) and
    `ReasonCode`, `ActionTaken` — our semantics are inferred.
 8. 2025 old-system dataset ends Nov 3, 2025; transition dataset overlaps
    Mar–Dec 2025; deduplication between them unresolved.
+9. **Batch imports masquerade as demand.** 2026-03-25, 11am: 8,201 cases in
+   one hour, 7,585 of them `Streetlight Repair Services` labeled
+   `Mobile App` — inflates H1 streetlight volume ~30% and accounts for most
+   of the app channel. Check category time series for single-hour spikes
+   before interpreting trends (notebook 03).
 
 ## 9. Notebook conventions
 

@@ -73,6 +73,42 @@ by the haulers themselves, resolutions are completed/cancelled-by-
 contractor. Recurrence analysis must be built spatially instead.
 Evidence: notebook 02.
 
+### F9. Operational demand is object-removal-dominated and extremely concentrated *(2026-07-06)*
+
+Jan–Jun 2026, standard operational filter (~804K cases, ~4,400/day,
+~1.6M/yr pace): `Item Pickups` (29.1%) + `Illegal Dumping Item Pickup`
+(28.8%) = **58% of all demand**; top 5 categories = 78%; the 40 smallest
+categories = 5%. Pavement, sidewalks, lighting are single digits each.
+LASAN and its divisions receive ~72% of demand; its six collection-yard
+districts are the city's largest workgroups.
+Evidence: notebook 03.
+
+### F10. The "front door" depends on the filter: website carries service demand, phone carries questions *(2026-07-06)*
+
+Raw cases: phone ~50%. Operational demand: **website 62%, phone 36%** —
+calls disproportionately produce Information-Only entries. Channel claims
+about 311 flip sign depending on this filter. ~17% of terminal operational
+cases still resolve `no_service_needed` (F4 sized on filtered data).
+Evidence: notebook 03.
+
+### F11. Council-district demand is nearly flat; neighborhood-scale demand is not *(2026-07-06)*
+
+Raw case volume varies only **1.5x across the 15 council districts**
+(43K–64K), but **27x across the 99 Neighborhood Councils** (Wilshire
+Center-Koreatown 22.6K → Hermon 835), pre-normalization. The interesting
+variation lives below district scale. Weekly rhythm: weekdays ≈ 2x
+Saturday; Sunday runs 25% above Saturday.
+Evidence: notebook 03.
+
+### F12. At least one batch import masquerades as demand *(2026-07-06)*
+
+2026-03-25, 11am hour: 8,201 cases created, 7,585 of them `Streetlight
+Repair Services`, mostly labeled `Mobile App` — a bulk load (likely a BSL
+backlog transfer), not organic reporting. Inflates H1 streetlight volume
+~30%, supplies most of the year's app-channel volume (partially explains
+O4), and warns that category time series need spike checks (standards §8.9).
+Evidence: notebook 03.
+
 ---
 
 ## Open questions
@@ -119,6 +155,27 @@ Unclear how much is real demand growth vs. accounting change.
 
 ---
 
+### O8. Is the Sunday demand uptick a bulky-item scheduling effect?
+
+Sunday runs 25% above Saturday. Hypothesis: residents set out items ahead
+of the collection week. Testable in the item-collection case study.
+
+### O9. Does channel mix (phone vs web) vary by neighborhood?
+
+If some communities depend on the phone, channel-based friction is an
+equity issue, and channel mix confounds geographic comparisons. Testable
+now with existing data.
+
+### O10. Do crew-discovered cases (`Driver Self Reported`) cluster where resident reporting is low?
+
+If yes, they're a partial ground-truth wedge into reporting bias (the
+quiet-≠-clean problem). Testable now.
+
+---
+
 ## Amendment log
 
 - 2026-07-06 — Document created with F1–F8, O1–O7 (from checkpoints 1–3).
+- 2026-07-06 — Notebook 03 (demand survey): added F9–F12, O8–O10; standards
+  §5 outcome table extended (13 codes), data-quality register gained batch-
+  import warning (§8.9).
