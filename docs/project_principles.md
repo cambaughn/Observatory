@@ -28,3 +28,15 @@ Question
 → New Question
 
 The goal is to develop a deep operational understanding of urban maintenance systems before attempting to build solutions.
+
+The purpose of each notebook is not merely to answer a question.
+
+It is to determine the next best question.
+
+Some questions are answered by additional data.
+
+Some questions are answered by field observation.
+
+Some questions are answered by stakeholder interviews.
+
+A successful notebook reduces uncertainty and identifies the next source of evidence.
