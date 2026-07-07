@@ -58,8 +58,21 @@ def download(key: str) -> Path:
     return dest
 
 
+def download_boundaries() -> Path:
+    """LA City Council district boundaries (2021 adopted), GeoJSON."""
+    url = "https://data.lacity.org/api/geospatial/pxeu-7j74?method=export&format=GeoJSON"
+    dest = RAW_DIR / "la_council_districts_2021.geojson"
+    print(f"Downloading council district boundaries -> {dest}")
+    urllib.request.urlretrieve(url, dest)
+    print(f"Done: {dest.stat().st_size / 1e6:,.1f} MB")
+    return dest
+
+
 if __name__ == "__main__":
     key = sys.argv[1] if len(sys.argv) > 1 else "2026"
-    if key not in DATASETS:
-        sys.exit(f"Unknown dataset {key!r}. Options: {', '.join(DATASETS)}")
-    download(key)
+    if key == "boundaries":
+        download_boundaries()
+    elif key not in DATASETS:
+        sys.exit(f"Unknown dataset {key!r}. Options: {', '.join(DATASETS)}, boundaries")
+    else:
+        download(key)

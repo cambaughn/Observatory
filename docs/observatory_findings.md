@@ -144,6 +144,31 @@ piles the city is slow to reach. Correlation only — confounded by
 geography/workload; cleaner within-yard test pending (extends O3).
 Evidence: notebook 04.
 
+### F17. Illegal dumping is a place problem: report mass concentrates at recurring 20m locations *(2026-07-07)*
+
+Using coordinate clustering (20m connected components; threshold validated
+against the known top site): **81% of dumping reports occur at recurring
+places**; 48% at places hit 5+ times in six months; ~300 places (25+
+reports) carry ~10K reports; 19 places exceed 50. Recurrence decomposes
+into **duplicate pressure** (21% of repeat-gaps <1 day — re-reports of a
+standing pile) and **genuine refill cycles** (median gap ~10 days, 25% of
+gaps >30 days). Dumping reports are ~100% geocoded (14 missing of 231.5K).
+Evidence: notebook 05; field list in
+`data/processed/dumping_field_candidates_nb05.csv`.
+
+### F18. Hotspots are two-tier: an anchored chronic top over a churning middle *(2026-07-07)*
+
+Top tier: 99% of 25+ report places are active in all three 2-month
+periods; 78% sustain 5+ reports in every period; 83% active all six
+months — the same corners absorb dozens of successful cleanups without
+moving (removal does not touch the generating mechanism). Middle tier:
+of ~7.5K places with 3+ reports in Jan–Feb, a third fall silent by
+May–Jun; P1↔P3 count correlation ~0.16. Chronic sites bead along specific
+arterials/alleys — sub-neighborhood structure invisible at CD resolution.
+Interventions targeting last quarter's mid-tier list would systematically
+miss.
+Evidence: notebook 05.
+
 ---
 
 ## Open questions
@@ -225,6 +250,17 @@ The duplicate-linking gap means 115 reports at one corner could be
 anywhere from a few piles to 115. Inter-report timing vs closure timing
 may partially separate these; field observation can settle it.
 
+### O14. What distinguishes anchored chronic sites from the churning middle tier?
+
+Land use, alley access, encampment proximity, lighting, enforcement
+history? Needs parcel/land-use data joins and the field program (notebook
+05's six-visit plan across three site archetypes).
+
+### O15. Is middle-tier churn migration, resolution, or reporting fatigue?
+
+Reporting fatigue is invisible in case data; field checks of gone-quiet
+places can distinguish "cleaned up" from "gave up reporting."
+
 ---
 
 ## Amendment log
@@ -236,3 +272,7 @@ may partially separate these; field observation can settle it.
 - 2026-07-06 — Notebook 04 (illegal dumping case study): added F13–F16,
   O11–O13. Project focus confirmed: illegal dumping is the primary object
   of study; scheduled Item Pickups serve as context/control.
+- 2026-07-07 — Notebook 05 (recurrence & hotspot structure): added F17–F18,
+  O14–O15; first field-visit target list produced (20 ranked sites, six-visit
+  program); council district boundaries added to data/raw (download script
+  extended).
