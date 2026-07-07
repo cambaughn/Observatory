@@ -190,11 +190,19 @@ Evidence: notebook 06; field program in
 
 4th St & New Hampshire Ave (Koreatown, 100% LSD-serviced): 115 reports
 Jan 1–Apr 17 (~one per 1.5 days), then **zero for the rest of the period**.
-Something at that corner changed — encampment resolution, physical
-alteration, or reporting collapse. Highest-value field visit + interview
-question (LSD/CARE+); check whether demand migrated to nearby corners
-(114 S New Hampshire, 400m away, stayed active).
-Evidence: notebook 06.
+**Explained (2026-07-07): the encampment at the corner's vacant lot was
+resolved in late April.** `Homeless Encampment` reports within 150m
+collapsed from ~100/month (Jan–Apr) to 4/month (May–Jun) simultaneously;
+dumping in the surrounding 30–300m ring continued unchanged (~80/month) —
+so no reporting collapse and no next-door migration. External context:
+this corner was already citywide #1 in Apr–Dec 2025 (206 reports, LAist),
+with a documented tent cluster on the vacant SE-corner lot; CD10 was
+actively working the corridor (city moved to acquire the 4th & Kingsley
+lot for a pocket park on 2026-04-02). Which intervention did it — CARE+/
+Inside Safe op, lot fencing, or media pressure — and whether the street
+is clean or merely unreported: field visit + CD10/LSD interview. The
+program's best natural experiment on what makes a chronic site stop.
+Evidence: notebook 06 (postscript); laist.com coverage.
 
 ---
 

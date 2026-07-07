@@ -58,6 +58,16 @@ def download(key: str) -> Path:
     return dest
 
 
+def download_census_nc() -> Path:
+    """2010 Census population approximated to Neighborhood Councils."""
+    url = "https://data.lacity.org/api/views/nwj3-ufba/rows.csv?accessType=DOWNLOAD"
+    dest = RAW_DIR / "census2010_by_nc.csv"
+    print(f"Downloading NC census data -> {dest}")
+    urllib.request.urlretrieve(url, dest)
+    print(f"Done: {dest.stat().st_size / 1e3:,.0f} KB")
+    return dest
+
+
 def download_boundaries() -> Path:
     """LA City Council district boundaries (2021 adopted), GeoJSON."""
     url = "https://data.lacity.org/api/geospatial/pxeu-7j74?method=export&format=GeoJSON"
@@ -72,7 +82,9 @@ if __name__ == "__main__":
     key = sys.argv[1] if len(sys.argv) > 1 else "2026"
     if key == "boundaries":
         download_boundaries()
+    elif key == "census":
+        download_census_nc()
     elif key not in DATASETS:
-        sys.exit(f"Unknown dataset {key!r}. Options: {', '.join(DATASETS)}, boundaries")
+        sys.exit(f"Unknown dataset {key!r}. Options: {', '.join(DATASETS)}, boundaries, census")
     else:
         download(key)
