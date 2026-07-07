@@ -109,6 +109,41 @@ backlog transfer), not organic reporting. Inflates H1 streetlight volume
 O4), and warns that category time series need spike checks (standards §8.9).
 Evidence: notebook 03.
 
+### F13. Illegal dumping response is fast and complete — persistence, not response failure, is the phenomenon *(2026-07-06)*
+
+Jan–Jun 2026: 231.5K dumping reports (28.8% of operational demand,
+~1,279/day, steady). Outcomes are nearly binary: ~71% collected, ~26%
+gone on arrival, closed fast (30% same-day, 92% ≤7 days). The ticket
+queue works; the streets refill anyway.
+Evidence: notebook 04.
+
+### F14. Dumping is dominated by recurrence at specific points *(2026-07-06)*
+
+Even with crude address-string matching, **70% of dumping reports occur
+at addresses reported 2+ times within six months** (43K repeat
+addresses); the top corner (4th St & New Hampshire Ave, Koreatown) was
+reported 115 times (~every 37 hours). Geography is structured: South LA,
+East Valley, Koreatown over-index even after controlling for overall 311
+usage (CD6 1.32x, CD8 1.30x; CD12 0.58x). Caveat: repeat *reports* ≠
+repeat *dumping events* (duplicate-linking gap).
+Evidence: notebook 04.
+
+### F15. Two service tracks clear dumping at different speeds *(2026-07-06)*
+
+18% of dumping cases are owned by LSD (encampment division; CARE/CARE+
+scheduled sweeps) and close in **median 1.0 day**; regular LASAN yard
+dispatch takes **median 2.7 days**. Same 26% gone-on-arrival rate in
+both. Performance/equity analyses must hold the track constant.
+Evidence: notebook 04.
+
+### F16. Gone-on-arrival correlates with slower response — a race with informal clearance *(2026-07-06)*
+
+`QC-Item Not Out` dumping cases took longer to close (median 2.9d) than
+collected ones (2.0d): consistent with scavengers/neighbors clearing
+piles the city is slow to reach. Correlation only — confounded by
+geography/workload; cleaner within-yard test pending (extends O3).
+Evidence: notebook 04.
+
 ---
 
 ## Open questions
@@ -171,6 +206,25 @@ now with existing data.
 If yes, they're a partial ground-truth wedge into reporting bias (the
 quiet-≠-clean problem). Testable now.
 
+### O11. Crew-level cleanup policy (interview: LASAN yards, LSD/CARE+ leads)
+
+Not answerable from case data: (a) if a crew sees additional dumped items
+near a work order, do they collect them? (b) what share of cleanup is
+proactive/patrol vs ticket-driven, and did anything replace CleanStat's
+proactive street scoring? (c) how do crews decide what to take on scene
+(size/hazard limits, private-property line, e-waste/white-goods handling)?
+
+### O12. What routes a dumping case to LSD vs a regular yard?
+
+Encampment proximity? Dispatcher judgment? Keyword? Determines what the
+two-track speed gap (F15) actually measures.
+
+### O13. Are repeat reports one long-lived pile or many dumping events?
+
+The duplicate-linking gap means 115 reports at one corner could be
+anywhere from a few piles to 115. Inter-report timing vs closure timing
+may partially separate these; field observation can settle it.
+
 ---
 
 ## Amendment log
@@ -179,3 +233,6 @@ quiet-≠-clean problem). Testable now.
 - 2026-07-06 — Notebook 03 (demand survey): added F9–F12, O8–O10; standards
   §5 outcome table extended (13 codes), data-quality register gained batch-
   import warning (§8.9).
+- 2026-07-06 — Notebook 04 (illegal dumping case study): added F13–F16,
+  O11–O13. Project focus confirmed: illegal dumping is the primary object
+  of study; scheduled Item Pickups serve as context/control.
