@@ -169,6 +169,33 @@ Interventions targeting last quarter's mid-tier list would systematically
 miss.
 Evidence: notebook 05.
 
+### F19. Valley neighborhoods differ in dumping structure — and in failure mode *(2026-07-07)*
+
+Calibration of seven SFV neighborhoods (NC-mapped): Van Nuys is the
+Valley's dumping capital (46% of its own 311 demand = 1.6x citywide mix,
+top intensity, 31 chronic sites); NoHo is the volume giant with the
+highest encampment component (20% LSD); **Panorama City fails
+differently** (Valley's slowest closes, 3.7d, and highest gone-on-arrival,
+36%); Reseda is a corridor phenomenon (its top three places all on
+Sherman Way 17800–17950); Encino hides 7 chronic pockets inside a clean
+background (0.78x, fastest closes 1.8d); **Studio City is the clean
+control** (0.59x, zero chronic 25+ places). Meanwhile recurring share
+barely varies (75–89%) across a 0.59x–1.60x demand-mix range —
+**recurrence is the universal structure of dumping, not a bad-neighborhood
+trait**; neighborhoods differ in chronic-place count and intensity.
+Evidence: notebook 06; field program in
+`data/processed/field_program_nb06.csv`.
+
+### F20. The citywide #1 dumping site went silent in mid-April *(2026-07-07)*
+
+4th St & New Hampshire Ave (Koreatown, 100% LSD-serviced): 115 reports
+Jan 1–Apr 17 (~one per 1.5 days), then **zero for the rest of the period**.
+Something at that corner changed — encampment resolution, physical
+alteration, or reporting collapse. Highest-value field visit + interview
+question (LSD/CARE+); check whether demand migrated to nearby corners
+(114 S New Hampshire, 400m away, stayed active).
+Evidence: notebook 06.
+
 ---
 
 ## Open questions
@@ -276,3 +303,6 @@ places can distinguish "cleaned up" from "gave up reporting."
   O14–O15; first field-visit target list produced (20 ranked sites, six-visit
   program); council district boundaries added to data/raw (download script
   extended).
+- 2026-07-07 — Notebook 06 (SFV neighborhood calibration): added F19–F20;
+  full field program produced (10 citywide + 9 Valley targets in
+  data/processed/field_program_nb06.csv + 5 clean comparison corridors).
