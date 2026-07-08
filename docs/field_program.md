@@ -15,42 +15,476 @@ lead with curiosity, not clipboard.
 
 ## Section A — Citywide Priority Sites (top 10)
 
-1. **4th St & New Hampshire Ave — Koreatown** · 115 reports · every ~0.4 days
-   **THE headline site.** Citywide #1, fully encampment-serviced (LSD),
-   reported ~daily for 3.5 months — then **silent since Apr 17**. Encampment
-   at the vacant SE-corner lot was resolved in late April. Look for: what
-   changed? Fencing? Cleared lot? Is the street actually clean? (RT-01/02/03)
+### A1. **4th St & New Hampshire Ave — Koreatown** · 115 reports · every ~0.4 days
 
-2. **350 N Avenue 21 — Lincoln Heights** · 78 · ~1.0 day
-   Encampment-adjacent (LSD), refills daily, near river/rail. 0% gone-on-arrival —
-   piles always there when crews arrive.
+**Research Questions**
 
-3. **17900 Sherman Way — Reseda** · 78 · ~1.3 days
-   Valley anchor of the Sherman Way corridor (see Route). Mixed servicing
-   (27% LSD), 27% gone-on-arrival.
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
 
-4. **8142 Pershing Dr — Westchester/Playa** · 76 · same-day gaps
-   The oddball: 76 reports in a *low-dumping district*, burst re-reporting
-   (median gap 0 days). One angry building? One chronic pile? Worth solving.
+**Site Characteristics**
 
-5. **1431 N Hobart Blvd — East Hollywood** · 73 · ~1.1 days
-   Dense-residential refill corner, no LSD. 27% gone-on-arrival.
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
 
-6. **114 S New Hampshire Ave — Koreatown** · 73 · ~0.9 days
-   **Pair with site #1** (400m apart): the non-encampment control that
-   *stayed active* after #1 went quiet. Same street grid, different mechanism?
+**Infrastructure**
 
-7. **1342 S Elwood St — Downtown (Fashion District edge)** · 65 · ~0.5 days
-   Encampment-adjacent, sub-daily re-reports, 8% gone-on-arrival.
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
 
-8. **1201 W 39th Pl — South LA** · 63 · ~2.0 days
-   Classic residential refill corner in the highest-intensity APC.
+**Stakeholders**
 
-9. **345 Columbia Ave — Westlake** · 63 · ~1.4 days
-   **32% gone-on-arrival** — highest on this list. Who clears it first?
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
 
-10. **Gramercy Pl & Gage Ave — South LA** · 60 · ~2.0 days
-    Intersection refill site; mostly regular LASAN service.
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** **THE headline site.** Citywide #1, fully encampment-serviced (LSD), reported ~daily for 3.5 months — then **silent since Apr 17**. Encampment at the vacant SE-corner lot was resolved in late April. Look for: what changed? Fencing? Cleared lot? Is the street actually clean? (RT-01/02/03)
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A2. **350 N Avenue 21 — Lincoln Heights** · 78 · ~1.0 day
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** Encampment-adjacent (LSD), refills daily, near river/rail. 0% gone-on-arrival — piles always there when crews arrive.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A3. **17900 Sherman Way — Reseda** · 78 · ~1.3 days
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** Valley anchor of the Sherman Way corridor (see Route). Mixed servicing (27% LSD), 27% gone-on-arrival.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A4. **8142 Pershing Dr — Westchester/Playa** · 76 · same-day gaps
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** The oddball: 76 reports in a *low-dumping district*, burst re-reporting (median gap 0 days). One angry building? One chronic pile? Worth solving.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A5. **1431 N Hobart Blvd — East Hollywood** · 73 · ~1.1 days
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** Dense-residential refill corner, no LSD. 27% gone-on-arrival.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A6. **114 S New Hampshire Ave — Koreatown** · 73 · ~0.9 days
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** **Pair with site #1** (400m apart): the non-encampment control that *stayed active* after #1 went quiet. Same street grid, different mechanism?
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A7. **1342 S Elwood St — Downtown (Fashion District edge)** · 65 · ~0.5 days
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** Encampment-adjacent, sub-daily re-reports, 8% gone-on-arrival.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A8. **1201 W 39th Pl — South LA** · 63 · ~2.0 days
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** Classic residential refill corner in the highest-intensity APC.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A9. **345 Columbia Ave — Westlake** · 63 · ~1.4 days
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** **32% gone-on-arrival** — highest on this list. Who clears it first?
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### A10. **Gramercy Pl & Gage Ave — South LA** · 60 · ~2.0 days
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** Intersection refill site; mostly regular LASAN service.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
 
 ---
 
@@ -62,29 +496,428 @@ west → east → south). Addresses are ZIP-accurate for maps.
 **Route: Reseda → Encino → Van Nuys → Panorama City → NoHo NE → NoHo Arts
 → Studio City → Sherman Oaks.**
 
-1. **17808 Sherman Way, Reseda** (53 · ~2.8d) — start of the corridor pair.
-   Walk east from here.
-2. **17900 Sherman Way, Reseda** (78 · ~1.3d) — 90m away. Key question:
-   one continuous condition or two distinct spots? What's between them?
-3. **5130 Yarmouth Ave, Encino** (37 · ~3.5d) — *chronic pocket inside a
-   clean neighborhood.* Just off the Ventura corridor. Why THIS street?
-   (Newcastle Ave & White Oak Ave pockets are 1–2 blocks over if time allows.)
-4. **14102 Delano St, Van Nuys** (58 · ~2.1d) — the Valley dumping
-   capital's top site; 31% gone-on-arrival. Erwin St (41 reports) is 3 blocks
-   south if time allows.
-5. **9404 Van Nuys Blvd, Panorama City** (35 · ~5.5d) — the
-   *gone-on-arrival anomaly* area: reports here more often end with nothing
-   collected, and closures are slowest. Does the street look scavenged?
-6. **13036 Sherman Way, North Hollywood (91605)** (46 · ~2.5d) —
-   encampment-adjacent (LSD), eastern Sherman Way. Compare with the Reseda
-   end of the same street from stop 1–2.
-7. **5767 Lankershim Blvd, NoHo** (60 · ~1.6d) — encampment-adjacent
-   archetype on the NoHo spine.
-8. **4176 Arch Dr, Studio City** (22 · ~6.3d) — *the clean-area ceiling.*
-   This is as bad as Studio City gets. Calibrate: how does the worst spot in
-   a clean neighborhood compare to an average Van Nuys corner?
-9. **14359 Addison St, Sherman Oaks** (26 · ~3.4d) — moderate-area top
-   site; end of loop.
+### B1. **17808 Sherman Way, Reseda** (53 · ~2.8d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** start of the corridor pair. Walk east from here.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### B2. **17900 Sherman Way, Reseda** (78 · ~1.3d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** 90m away. Key question: one continuous condition or two distinct spots? What's between them?
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### B3. **5130 Yarmouth Ave, Encino** (37 · ~3.5d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** *chronic pocket inside a clean neighborhood.* Just off the Ventura corridor. Why THIS street? (Newcastle Ave & White Oak Ave pockets are 1–2 blocks over if time allows.)
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### B4. **14102 Delano St, Van Nuys** (58 · ~2.1d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** the Valley dumping capital's top site; 31% gone-on-arrival. Erwin St (41 reports) is 3 blocks south if time allows.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### B5. **9404 Van Nuys Blvd, Panorama City** (35 · ~5.5d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** the *gone-on-arrival anomaly* area: reports here more often end with nothing collected, and closures are slowest. Does the street look scavenged?
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### B6. **13036 Sherman Way, North Hollywood (91605)** (46 · ~2.5d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** encampment-adjacent (LSD), eastern Sherman Way. Compare with the Reseda end of the same street from stop 1–2.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### B7. **5767 Lankershim Blvd, NoHo** (60 · ~1.6d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** encampment-adjacent archetype on the NoHo spine.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### B8. **4176 Arch Dr, Studio City** (22 · ~6.3d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** *the clean-area ceiling.* This is as bad as Studio City gets. Calibrate: how does the worst spot in a clean neighborhood compare to an average Van Nuys corner?
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### B9. **14359 Addison St, Sherman Oaks** (26 · ~3.4d)
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** moderate-area top site; end of loop.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
 
 Driving bonus, no stops needed: the **Van Nuys Blvd → Ventura Blvd
 gradient**. Between stops 5 → 8 and 8 → 9 you cross the sharpest demand
@@ -101,19 +934,241 @@ do report — quiet-≠-clean partially controlled). Watch for what's
 *different*: alley presence, bin access, frontage upkeep, cameras, signage,
 private security/BID crews, renter vs owner housing stock.
 
-1. **Studio City — Ventura Blvd (Laurel Canyon ↔ Coldwater)** · 0.59x
-   citywide mix, **zero** chronic sites. Primary control; one NC boundary
-   from Van Nuys. Covered by Route stops 8–9.
-2. **Sherman Oaks — Ventura corridor** · 0.82x, low intensity. The gradient
-   case: same boulevard as Studio City, 2km from Van Nuys's worst blocks.
-3. **Woodland Hills–Warner Center** · 12.5% dumping share on high total 311
-   engagement (13.4K cases — heavy reporters, few dump reports). Best
-   commercial-corridor control. West of Reseda; pairs with Route stop 1 day.
-4. **Granada Hills North** · 11.6% share. "Ordinary but clean" single-family
-   Valley control — demographically closer to Reseda than Porter Ranch is.
-5. **Porter Ranch** · 5.2% share — citywide minimum among engaged NCs.
-   The near-zero anchor; note how much built form (HOA, no alleys, no aging
-   commercial strip) explains before any city service does.
+### C1. **Studio City — Ventura Blvd (Laurel Canyon ↔ Coldwater)** · 0.59x
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** citywide mix, **zero** chronic sites. Primary control; one NC boundary from Van Nuys. Covered by Route stops 8–9.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### C2. **Sherman Oaks — Ventura corridor** · 0.82x, low intensity. The gradient
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** case: same boulevard as Studio City, 2km from Van Nuys's worst blocks.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### C3. **Woodland Hills–Warner Center** · 12.5% dumping share on high total 311
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** engagement (13.4K cases — heavy reporters, few dump reports). Best commercial-corridor control. West of Reseda; pairs with Route stop 1 day.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### C4. **Granada Hills North** · 11.6% share. "Ordinary but clean" single-family
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** Valley control — demographically closer to Reseda than Porter Ranch is.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+### C5. **Porter Ranch** · 5.2% share
+
+**Research Questions**
+
+☐ What appears to be generating the dumping here?
+☐ Why here instead of nearby?
+☐ Does the data's explanation seem accurate?
+
+**Site Characteristics**
+
+☐ Alley  ☐ Vacant lot  ☐ Apartment building
+☐ Commercial property  ☐ Industrial property  ☐ Loading dock
+☐ Encampment  ☐ Bus stop  ☐ Freeway ramp
+☐ Parking lot  ☐ Retaining wall  ☐ Fence or blank wall
+☐ Tree well / landscaping  ☐ Illegal dumping signs
+☐ Public trash cans  ☐ Bulky item pickup signage
+
+**Infrastructure**
+
+☐ Lighting quality  ☐ Camera visible
+☐ Easy vehicle access  ☐ Easy truck access
+☐ Hidden from street  ☐ Highly visible
+☐ Evidence of repeated cleanup  ☐ Evidence of repeated dumping
+
+**Stakeholders**
+
+☐ Nearby business worth interviewing  ☐ Nearby resident worth interviewing
+☐ City worker encountered  ☐ BID presence
+☐ Security patrol  ☐ Other notable stakeholder
+
+**Observations**
+
+☐ Anything unexpected?  ☐ What surprised me?
+☐ Does this suggest a new research question?
+
+**Site-specific notes:** citywide minimum among engaged NCs. The near-zero anchor; note how much built form (HOA, no alleys, no aging commercial strip) explains before any city service does.
+
+**Notes:**
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
 
 ---
 
