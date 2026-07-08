@@ -40,3 +40,9 @@ Some questions are answered by field observation.
 Some questions are answered by stakeholder interviews.
 
 A successful notebook reduces uncertainty and identifies the next source of evidence.
+
+The project should stay lightweight.
+
+Do not create elaborate structure before the investigation needs it.
+
+Prefer simple living documents that are easy to maintain.
