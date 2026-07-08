@@ -314,3 +314,7 @@ places can distinguish "cleaned up" from "gave up reporting."
 - 2026-07-07 — Notebook 06 (SFV neighborhood calibration): added F19–F20;
   full field program produced (10 citywide + 9 Valley targets in
   data/processed/field_program_nb06.csv + 5 clean comparison corridors).
+- 2026-07-08 — Per-capita denominators upgraded from the city's 2010-by-NC
+  file to 2020 Census blocks aggregated into certified NC boundaries
+  (scripts/build_nc_population_2020.py; validated against official county
+  total). Neighborhood rates shifted <3%; no conclusions changed.
