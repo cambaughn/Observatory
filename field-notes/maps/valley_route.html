@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_bd4e2fd3337ad1a69af0ad1a0c050af9 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_bd4e2fd3337ad1a69af0ad1a0c050af9" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_bd4e2fd3337ad1a69af0ad1a0c050af9 = L.map(
+                "map_bd4e2fd3337ad1a69af0ad1a0c050af9",
+                {
+                    center: [34.19, -118.44],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c1a7d3d9f578a92187ebad0516c292bc = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_c1a7d3d9f578a92187ebad0516c292bc.addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var poly_line_0568b9890b45769bd7ff50376b2210f9 = L.polyline(
+                [[34.200306, -118.5212475], [34.200925052552805, -118.52286867799768], [34.163793, -118.519947], [34.18240717241379, -118.44053247413794], [34.240833, -118.449612], [34.20045, -118.41711750000002], [34.1756022, -118.38148822499998], [34.143093, -118.37226149999998], [34.161741, -118.4464665]],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": "6", "dashOffset": null, "fill": false, "fillColor": "royalblue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var circle_marker_7b06967fd02bf3a8a0a61fa825d7bd18 = L.circleMarker(
+                [34.200306, -118.5212475],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_bac04b8b8a824b773d7e63e823d1c17f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6151835bb1ae179673f090c9ad20f38d = $(`<div id="html_6151835bb1ae179673f090c9ad20f38d" style="width: 100.0%; height: 100.0%;"><b>17808 SHERMAN WAY, LOS ANGELES, CA, 91335</b><br>Reseda<br>reports: 53 | median gap: 2.8 d<br><i>high-volume chronic site; Sherman Way corridor</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.200306,-118.521248' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_bac04b8b8a824b773d7e63e823d1c17f.setContent(html_6151835bb1ae179673f090c9ad20f38d);
+            
+        
+
+        circle_marker_7b06967fd02bf3a8a0a61fa825d7bd18.bindPopup(popup_bac04b8b8a824b773d7e63e823d1c17f)
+        ;
+
+        
+    
+    
+            var marker_c6ae550fd0fbb049312ed35920b73120 = L.marker(
+                [34.200306, -118.5212475],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_e516a69a9ec69e8b1bc79ed6cf8e83e3 = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e1\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_c6ae550fd0fbb049312ed35920b73120.setIcon(div_icon_e516a69a9ec69e8b1bc79ed6cf8e83e3);
+            
+    
+            var circle_marker_4ad8922a6875eb8c07c5962bd2bee7e9 = L.circleMarker(
+                [34.200925052552805, -118.52286867799768],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_08bc4d8d3ab5555ce6793504e0d4c8ab = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4eee2b5d542f262b0618617dcf492d87 = $(`<div id="html_4eee2b5d542f262b0618617dcf492d87" style="width: 100.0%; height: 100.0%;"><b>17900 SHERMAN WAY, LOS ANGELES, CA, 91335</b><br>Reseda<br>reports: 78 | median gap: 1.3 d<br><i>refills every 1-2 days; Sherman Way corridor</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.200925,-118.522869' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_08bc4d8d3ab5555ce6793504e0d4c8ab.setContent(html_4eee2b5d542f262b0618617dcf492d87);
+            
+        
+
+        circle_marker_4ad8922a6875eb8c07c5962bd2bee7e9.bindPopup(popup_08bc4d8d3ab5555ce6793504e0d4c8ab)
+        ;
+
+        
+    
+    
+            var marker_84e3cd75e6e9953cafcb5f1fa613e0e1 = L.marker(
+                [34.200925052552805, -118.52286867799768],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_217667c98509b8da808dae07675a0f83 = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e2\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_84e3cd75e6e9953cafcb5f1fa613e0e1.setIcon(div_icon_217667c98509b8da808dae07675a0f83);
+            
+    
+            var circle_marker_93e9bc037bca72a4707a6b16f7b0af36 = L.circleMarker(
+                [34.163793, -118.519947],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_e3d385ab28acfd68e325ab96aa79376f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3a095dfcbb77a723ac6358a05929c4a6 = $(`<div id="html_3a095dfcbb77a723ac6358a05929c4a6" style="width: 100.0%; height: 100.0%;"><b>5130 YARMOUTH AVE, LOS ANGELES, CA, 91316</b><br>Encino<br>reports: 37 | median gap: 3.5 d<br><i>high-volume chronic site; chronic pocket inside clean background</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.163793,-118.519947' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_e3d385ab28acfd68e325ab96aa79376f.setContent(html_3a095dfcbb77a723ac6358a05929c4a6);
+            
+        
+
+        circle_marker_93e9bc037bca72a4707a6b16f7b0af36.bindPopup(popup_e3d385ab28acfd68e325ab96aa79376f)
+        ;
+
+        
+    
+    
+            var marker_f212fb57d4c4202e42a599937cf07e50 = L.marker(
+                [34.163793, -118.519947],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_bde638b2a82d54454558c6d270901a21 = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e3\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_f212fb57d4c4202e42a599937cf07e50.setIcon(div_icon_bde638b2a82d54454558c6d270901a21);
+            
+    
+            var circle_marker_27bee589b20d68159485fd1f52a46816 = L.circleMarker(
+                [34.18240717241379, -118.44053247413794],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_27f6a9082abdb5d4f12597875c71f14c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f41f176a40564a9201803deb3414a85a = $(`<div id="html_f41f176a40564a9201803deb3414a85a" style="width: 100.0%; height: 100.0%;"><b>14102 DELANO ST, LOS ANGELES, CA, 91401</b><br>Van Nuys<br>reports: 58 | median gap: 2.1 d<br><i>31% gone-on-arrival; refills every 1-2 days; Valley dumping capital</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.182407,-118.440532' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_27f6a9082abdb5d4f12597875c71f14c.setContent(html_f41f176a40564a9201803deb3414a85a);
+            
+        
+
+        circle_marker_27bee589b20d68159485fd1f52a46816.bindPopup(popup_27f6a9082abdb5d4f12597875c71f14c)
+        ;
+
+        
+    
+    
+            var marker_d512993190825c34756af2bee68357ca = L.marker(
+                [34.18240717241379, -118.44053247413794],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_7e3bc08abe18b05c9efdc715129be0c2 = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e4\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_d512993190825c34756af2bee68357ca.setIcon(div_icon_7e3bc08abe18b05c9efdc715129be0c2);
+            
+    
+            var circle_marker_0eb234f2481e08d902f17d222c889c63 = L.circleMarker(
+                [34.240833, -118.449612],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_31c98e2d7babe10e41461ee0c4cb4a84 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a2f18512e0896fac51f0e15a6da4d3ee = $(`<div id="html_a2f18512e0896fac51f0e15a6da4d3ee" style="width: 100.0%; height: 100.0%;"><b>9404 VAN NUYS BLVD, LOS ANGELES, CA, 91402</b><br>Panorama City<br>reports: 35 | median gap: 5.5 d<br><i>high-volume chronic site; gone-on-arrival anomaly area</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.240833,-118.449612' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_31c98e2d7babe10e41461ee0c4cb4a84.setContent(html_a2f18512e0896fac51f0e15a6da4d3ee);
+            
+        
+
+        circle_marker_0eb234f2481e08d902f17d222c889c63.bindPopup(popup_31c98e2d7babe10e41461ee0c4cb4a84)
+        ;
+
+        
+    
+    
+            var marker_63590ada83081dcf94bed7ab8644f834 = L.marker(
+                [34.240833, -118.449612],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_f426a9ba6adeef93bb47cbff04a2afab = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e5\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_63590ada83081dcf94bed7ab8644f834.setIcon(div_icon_f426a9ba6adeef93bb47cbff04a2afab);
+            
+    
+            var circle_marker_c7fa4979df83129af9ea0295d0a00f84 = L.circleMarker(
+                [34.20045, -118.41711750000002],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_40867d5c688b9dec4f431dab76c778c0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d2a6179de8e0a98c2c9d1b6a63230416 = $(`<div id="html_d2a6179de8e0a98c2c9d1b6a63230416" style="width: 100.0%; height: 100.0%;"><b>13036 SHERMAN WAY, LOS ANGELES, CA, 91605</b><br>North Hollywood<br>reports: 46 | median gap: 2.5 d<br><i>encampment-adjacent (LSD); encampment-adjacent archetype</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.200450,-118.417118' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_40867d5c688b9dec4f431dab76c778c0.setContent(html_d2a6179de8e0a98c2c9d1b6a63230416);
+            
+        
+
+        circle_marker_c7fa4979df83129af9ea0295d0a00f84.bindPopup(popup_40867d5c688b9dec4f431dab76c778c0)
+        ;
+
+        
+    
+    
+            var marker_ef09a268c537a6ad2acd920651864ccc = L.marker(
+                [34.20045, -118.41711750000002],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_1d223ad48ecb78e55dadc81b0ef3d060 = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e6\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_ef09a268c537a6ad2acd920651864ccc.setIcon(div_icon_1d223ad48ecb78e55dadc81b0ef3d060);
+            
+    
+            var circle_marker_9fb8e93875b86928777d5b9a3f6a72a5 = L.circleMarker(
+                [34.1756022, -118.38148822499998],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_26301134ec430971d2c8c16ac7d46dd6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_086594f42791b250a507e41b98d7b27c = $(`<div id="html_086594f42791b250a507e41b98d7b27c" style="width: 100.0%; height: 100.0%;"><b>5767 LANKERSHIM BLVD, LOS ANGELES, CA, 91601</b><br>North Hollywood<br>reports: 60 | median gap: 1.6 d<br><i>encampment-adjacent (LSD); refills every 1-2 days; encampment-adjacent archetype</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.175602,-118.381488' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_26301134ec430971d2c8c16ac7d46dd6.setContent(html_086594f42791b250a507e41b98d7b27c);
+            
+        
+
+        circle_marker_9fb8e93875b86928777d5b9a3f6a72a5.bindPopup(popup_26301134ec430971d2c8c16ac7d46dd6)
+        ;
+
+        
+    
+    
+            var marker_b9abebb9e3a860159802fc419eda6539 = L.marker(
+                [34.1756022, -118.38148822499998],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_c3ace09ef4fa79bf23096e0863cbdac7 = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e7\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_b9abebb9e3a860159802fc419eda6539.setIcon(div_icon_c3ace09ef4fa79bf23096e0863cbdac7);
+            
+    
+            var circle_marker_99334a6171b7782df7511702d187595c = L.circleMarker(
+                [34.143093, -118.37226149999998],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_14eab292ae0dbe42a964cf578f5053ee = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a9ff7913f2a8425a0dd2eb040f0ee096 = $(`<div id="html_a9ff7913f2a8425a0dd2eb040f0ee096" style="width: 100.0%; height: 100.0%;"><b>4176 ARCH DR, LOS ANGELES, CA, 91604</b><br>Studio City<br>reports: 22 | median gap: 6.3 d<br><i>high-volume chronic site; clean-area top site (ceiling check)</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.143093,-118.372261' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_14eab292ae0dbe42a964cf578f5053ee.setContent(html_a9ff7913f2a8425a0dd2eb040f0ee096);
+            
+        
+
+        circle_marker_99334a6171b7782df7511702d187595c.bindPopup(popup_14eab292ae0dbe42a964cf578f5053ee)
+        ;
+
+        
+    
+    
+            var marker_465e85f7f6bba49532d6946d9729faef = L.marker(
+                [34.143093, -118.37226149999998],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_b7c629d0960f02a0bfc4e438ca7abce5 = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e8\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_465e85f7f6bba49532d6946d9729faef.setIcon(div_icon_b7c629d0960f02a0bfc4e438ca7abce5);
+            
+    
+            var circle_marker_0b2091b92a524b9e4eb9e422d8208006 = L.circleMarker(
+                [34.161741, -118.4464665],
+                {"bubblingMouseEvents": true, "color": "royalblue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "white", "fillOpacity": 1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13, "stroke": true, "weight": 3}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+        var popup_3de79dc6dee7c8e1436063b3d8e5ef61 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_29da1ad322444674247a3118abccc946 = $(`<div id="html_29da1ad322444674247a3118abccc946" style="width: 100.0%; height: 100.0%;"><b>14359 ADDISON ST, LOS ANGELES, CA, 91423</b><br>Sherman Oaks<br>reports: 26 | median gap: 3.4 d<br><i>high-volume chronic site; moderate-area top site</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.161741,-118.446466' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_3de79dc6dee7c8e1436063b3d8e5ef61.setContent(html_29da1ad322444674247a3118abccc946);
+            
+        
+
+        circle_marker_0b2091b92a524b9e4eb9e422d8208006.bindPopup(popup_3de79dc6dee7c8e1436063b3d8e5ef61)
+        ;
+
+        
+    
+    
+            var marker_0caa1163a7f4ffbde0a9e74319a3f98f = L.marker(
+                [34.161741, -118.4464665],
+                {
+}
+            ).addTo(map_bd4e2fd3337ad1a69af0ad1a0c050af9);
+        
+    
+            var div_icon_18c7abe68a09f0b6eb7045f737dbb653 = L.divIcon({
+  "html": "\u003cdiv style=\u0027font-size:11px;font-weight:bold;color:royalblue;text-align:center;width:26px;margin-left:-13px;margin-top:-7px\u0027\u003e9\u003c/div\u003e",
+  "className": "empty",
+});
+        
+    
+                marker_0caa1163a7f4ffbde0a9e74319a3f98f.setIcon(div_icon_18c7abe68a09f0b6eb7045f737dbb653);
+            
+</script>
+</html>

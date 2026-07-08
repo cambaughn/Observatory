@@ -11,11 +11,30 @@ Safety/etiquette: several sites are encampment-adjacent. Don't photograph
 people or tents up close; shoot the curb and context. If someone engages,
 lead with curiosity, not clipboard.
 
+
+## Maps (open before you drive)
+
+Interactive HTML maps in [`field-notes/maps/`](../field-notes/maps/) — open
+locally in any browser, or AirDrop/email the files to your phone (each is
+<25 KB; tiles load from the network). Every marker popup includes an
+*Open in Google Maps* link for turn-by-turn.
+
+- **[Valley route](../field-notes/maps/valley_route.html)** — all 9 Valley
+  sites, numbered in visit order and connected
+- **[Koreatown pair](../field-notes/maps/koreatown.html)** — the two New
+  Hampshire sites with the 300m/800m migration-check rings
+- **[Citywide planning](../field-notes/maps/citywide.html)** — all top 10
+  sites, for planning future trips (not routing)
+
+Regenerate anytime: `python scripts/build_field_maps.py`
+
 ---
 
 ## Section A — Citywide Priority Sites (top 10)
 
 ### A1. **4th St & New Hampshire Ave — Koreatown** · 115 reports · every ~0.4 days
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.067373,-118.292947)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -34,6 +53,8 @@ lead with curiosity, not clipboard.
 
 ### A2. **350 N Avenue 21 — Lincoln Heights** · 78 · ~1.0 day
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.078887,-118.222470)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -50,6 +71,8 @@ lead with curiosity, not clipboard.
 
 
 ### A3. **17900 Sherman Way — Reseda** · 78 · ~1.3 days
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.200925,-118.522869)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -68,6 +91,8 @@ lead with curiosity, not clipboard.
 
 ### A4. **8142 Pershing Dr — Westchester/Playa** · 76 · same-day gaps
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=33.959027,-118.443930)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -84,6 +109,8 @@ lead with curiosity, not clipboard.
 
 
 ### A5. **1431 N Hobart Blvd — East Hollywood** · 73 · ~1.1 days
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.097350,-118.306001)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -102,6 +129,8 @@ lead with curiosity, not clipboard.
 
 ### A6. **114 S New Hampshire Ave — Koreatown** · 73 · ~0.9 days
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.072258,-118.292527)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -118,6 +147,8 @@ lead with curiosity, not clipboard.
 
 
 ### A7. **1342 S Elwood St — Downtown (Fashion District edge)** · 65 · ~0.5 days
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.025144,-118.235584)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -136,6 +167,8 @@ lead with curiosity, not clipboard.
 
 ### A8. **1201 W 39th Pl — South LA** · 63 · ~2.0 days
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.014369,-118.297508)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -153,6 +186,8 @@ lead with curiosity, not clipboard.
 
 ### A9. **345 Columbia Ave — Westlake** · 63 · ~1.4 days
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.058439,-118.265332)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -169,6 +204,8 @@ lead with curiosity, not clipboard.
 
 
 ### A10. **Gramercy Pl & Gage Ave — South LA** · 60 · ~2.0 days
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=33.981850,-118.313378)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -198,6 +235,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 ### B1. **17808 Sherman Way, Reseda** (53 · ~2.8d)
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.200306,-118.521248)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -214,6 +253,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 
 ### B2. **17900 Sherman Way, Reseda** (78 · ~1.3d)
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.200925,-118.522869)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -232,6 +273,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 ### B3. **5130 Yarmouth Ave, Encino** (37 · ~3.5d)
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.163793,-118.519947)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -248,6 +291,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 
 ### B4. **14102 Delano St, Van Nuys** (58 · ~2.1d)
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.182407,-118.440532)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -266,6 +311,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 ### B5. **9404 Van Nuys Blvd, Panorama City** (35 · ~5.5d)
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.240833,-118.449612)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -282,6 +329,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 
 ### B6. **13036 Sherman Way, North Hollywood (91605)** (46 · ~2.5d)
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.200450,-118.417118)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -300,6 +349,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 ### B7. **5767 Lankershim Blvd, NoHo** (60 · ~1.6d)
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.175602,-118.381488)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -317,6 +368,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 ### B8. **4176 Arch Dr, Studio City** (22 · ~6.3d)
 
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.143093,-118.372261)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -333,6 +386,8 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 
 ### B9. **14359 Addison St, Sherman Oaks** (26 · ~3.4d)
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.161741,-118.446466)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -366,6 +421,8 @@ private security/BID crews, renter vs owner housing stock.
 
 ### C1. **Studio City — Ventura Blvd (Laurel Canyon ↔ Coldwater)** · 0.59x
 
+[Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Ventura+Blvd+%26+Laurel+Canyon+Blvd,+Studio+City,+CA)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -382,6 +439,8 @@ private security/BID crews, renter vs owner housing stock.
 
 
 ### C2. **Sherman Oaks — Ventura corridor** · 0.82x, low intensity. The gradient
+
+[Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Ventura+Blvd+%26+Van+Nuys+Blvd,+Sherman+Oaks,+CA)
 
 - **Generating it?**
 - **Why here, not nearby?**
@@ -400,6 +459,8 @@ private security/BID crews, renter vs owner housing stock.
 
 ### C3. **Woodland Hills–Warner Center** · 12.5% dumping share on high total 311
 
+[Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Warner+Center,+Woodland+Hills,+CA)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -417,6 +478,8 @@ private security/BID crews, renter vs owner housing stock.
 
 ### C4. **Granada Hills North** · 11.6% share. "Ordinary but clean" single-family
 
+[Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Granada+Hills,+Los+Angeles,+CA)
+
 - **Generating it?**
 - **Why here, not nearby?**
 - **Data's explanation accurate?** (yes / partly / no):
@@ -433,6 +496,8 @@ private security/BID crews, renter vs owner housing stock.
 
 
 ### C5. **Porter Ranch** · 5.2% share
+
+[Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Porter+Ranch,+Los+Angeles,+CA)
 
 - **Generating it?**
 - **Why here, not nearby?**

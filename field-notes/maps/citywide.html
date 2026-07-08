@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_7bd5344c659cd44f8ca901f6727508b6 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_7bd5344c659cd44f8ca901f6727508b6" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_7bd5344c659cd44f8ca901f6727508b6 = L.map(
+                "map_7bd5344c659cd44f8ca901f6727508b6",
+                {
+                    center: [34.04, -118.32],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b52c6cfe20ae1ceba0ddfb80abf45b15 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_b52c6cfe20ae1ceba0ddfb80abf45b15.addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+            var circle_marker_95b06e8cf0fa0bcc453b3e792760e180 = L.circleMarker(
+                [34.067372919723596, -118.29294677907863],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_37b3e6c3f04cf8eea3a09db7e6c54203 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f2b921df913b8cffc8fdf53cb8ce77b9 = $(`<div id="html_f2b921df913b8cffc8fdf53cb8ce77b9" style="width: 100.0%; height: 100.0%;"><b>4TH ST and NEW HAMPSHIRE AVE</b><br>WILSHIRE CENTER - KOREATOWN NC<br>reports: 115 | median gap: 0.4 d<br><i>WENT QUIET Apr 17 after heavy activity - intervention?; encampment-adjacent (LSD); sub-daily report gaps</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.067373,-118.292947' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_37b3e6c3f04cf8eea3a09db7e6c54203.setContent(html_f2b921df913b8cffc8fdf53cb8ce77b9);
+            
+        
+
+        circle_marker_95b06e8cf0fa0bcc453b3e792760e180.bindPopup(popup_37b3e6c3f04cf8eea3a09db7e6c54203)
+        ;
+
+        
+    
+    
+            circle_marker_95b06e8cf0fa0bcc453b3e792760e180.bindTooltip(
+                `<div>
+                     4TH ST and NEW HAMPSHIRE AVE
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fc7bec395a16c71bd500ed3680449436 = L.circleMarker(
+                [34.078887, -118.22247],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_bc4427c3fffc4354a0fd69905e28da6c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7d381fb589984094868c365a84a57822 = $(`<div id="html_7d381fb589984094868c365a84a57822" style="width: 100.0%; height: 100.0%;"><b>350 N AVENUE 21, LOS ANGELES, CA, 90031</b><br>LINCOLN HEIGHTS NC<br>reports: 78 | median gap: 1.0 d<br><i>encampment-adjacent (LSD); refills every 1-2 days</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.078887,-118.222470' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_bc4427c3fffc4354a0fd69905e28da6c.setContent(html_7d381fb589984094868c365a84a57822);
+            
+        
+
+        circle_marker_fc7bec395a16c71bd500ed3680449436.bindPopup(popup_bc4427c3fffc4354a0fd69905e28da6c)
+        ;
+
+        
+    
+    
+            circle_marker_fc7bec395a16c71bd500ed3680449436.bindTooltip(
+                `<div>
+                     350 N AVENUE 21, LOS ANGELES, CA, 90031
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7cc507d8662bb5fbe10673a84829f435 = L.circleMarker(
+                [34.200925052552805, -118.52286867799768],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_a377bd050d70fb0c373edad0191c29ae = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d81c0a631008c645f36885ae5a1133db = $(`<div id="html_d81c0a631008c645f36885ae5a1133db" style="width: 100.0%; height: 100.0%;"><b>17900 SHERMAN WAY, LOS ANGELES, CA, 91335</b><br>RESEDA NC<br>reports: 78 | median gap: 1.3 d<br><i>refills every 1-2 days</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.200925,-118.522869' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_a377bd050d70fb0c373edad0191c29ae.setContent(html_d81c0a631008c645f36885ae5a1133db);
+            
+        
+
+        circle_marker_7cc507d8662bb5fbe10673a84829f435.bindPopup(popup_a377bd050d70fb0c373edad0191c29ae)
+        ;
+
+        
+    
+    
+            circle_marker_7cc507d8662bb5fbe10673a84829f435.bindTooltip(
+                `<div>
+                     17900 SHERMAN WAY, LOS ANGELES, CA, 91335
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a73006797e8c38742f16b465ed8d1a8b = L.circleMarker(
+                [33.95902725, -118.44392956578947],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_b15e41e7c55869e7ddc56372d763dc8a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3a246de8879b0d5873cd5d1e4d243a98 = $(`<div id="html_3a246de8879b0d5873cd5d1e4d243a98" style="width: 100.0%; height: 100.0%;"><b>8142 PERSHING DR, LOS ANGELES, CA, 90293</b><br>WESTCHESTER/PLAYA NC<br>reports: 76 | median gap: 0.0 d<br><i>sub-daily report gaps</i><br><a href='https://www.google.com/maps/search/?api=1&query=33.959027,-118.443930' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_b15e41e7c55869e7ddc56372d763dc8a.setContent(html_3a246de8879b0d5873cd5d1e4d243a98);
+            
+        
+
+        circle_marker_a73006797e8c38742f16b465ed8d1a8b.bindPopup(popup_b15e41e7c55869e7ddc56372d763dc8a)
+        ;
+
+        
+    
+    
+            circle_marker_a73006797e8c38742f16b465ed8d1a8b.bindTooltip(
+                `<div>
+                     8142 PERSHING DR, LOS ANGELES, CA, 90293
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fb4305ac27ab638debaa51697cf62f7e = L.circleMarker(
+                [34.09735006849315, -118.3060007260274],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_532fa2ffff9e8d8425da3f02cc8f36ca = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f8db4c824f0e5530d886b8a09efd29e4 = $(`<div id="html_f8db4c824f0e5530d886b8a09efd29e4" style="width: 100.0%; height: 100.0%;"><b>1431 N HOBART BLVD, LOS ANGELES, CA, 90027</b><br>EAST HOLLYWOOD NC<br>reports: 73 | median gap: 1.1 d<br><i>refills every 1-2 days</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.097350,-118.306001' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_532fa2ffff9e8d8425da3f02cc8f36ca.setContent(html_f8db4c824f0e5530d886b8a09efd29e4);
+            
+        
+
+        circle_marker_fb4305ac27ab638debaa51697cf62f7e.bindPopup(popup_532fa2ffff9e8d8425da3f02cc8f36ca)
+        ;
+
+        
+    
+    
+            circle_marker_fb4305ac27ab638debaa51697cf62f7e.bindTooltip(
+                `<div>
+                     1431 N HOBART BLVD, LOS ANGELES, CA, 90027
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_91abd2d4045b2599d7e0d0552273e84e = L.circleMarker(
+                [34.07225757534246, -118.2925268630137],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_605bb26f615619873e766b0c037684d8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6788cc0a3bdc9610df6605a19fccb85e = $(`<div id="html_6788cc0a3bdc9610df6605a19fccb85e" style="width: 100.0%; height: 100.0%;"><b>114 S NEW HAMPSHIRE AVE, LOS ANGELES, CA, 90004</b><br>WILSHIRE CENTER - KOREATOWN NC<br>reports: 73 | median gap: 0.9 d<br><i>sub-daily report gaps</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.072258,-118.292527' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_605bb26f615619873e766b0c037684d8.setContent(html_6788cc0a3bdc9610df6605a19fccb85e);
+            
+        
+
+        circle_marker_91abd2d4045b2599d7e0d0552273e84e.bindPopup(popup_605bb26f615619873e766b0c037684d8)
+        ;
+
+        
+    
+    
+            circle_marker_91abd2d4045b2599d7e0d0552273e84e.bindTooltip(
+                `<div>
+                     114 S NEW HAMPSHIRE AVE, LOS ANGELES, CA, 90004
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6957e4fa89230ade8ac59ace65ea4295 = L.circleMarker(
+                [34.02514398461539, -118.23558369230769],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_3bdddd44279e3b3a44c8d946696b57f9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_85dbc706a73fe57ed7380307dd281844 = $(`<div id="html_85dbc706a73fe57ed7380307dd281844" style="width: 100.0%; height: 100.0%;"><b>1342 S ELWOOD ST, LOS ANGELES, CA, 90021</b><br>DOWNTOWN LOS ANGELES<br>reports: 65 | median gap: 0.5 d<br><i>encampment-adjacent (LSD); sub-daily report gaps</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.025144,-118.235584' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_3bdddd44279e3b3a44c8d946696b57f9.setContent(html_85dbc706a73fe57ed7380307dd281844);
+            
+        
+
+        circle_marker_6957e4fa89230ade8ac59ace65ea4295.bindPopup(popup_3bdddd44279e3b3a44c8d946696b57f9)
+        ;
+
+        
+    
+    
+            circle_marker_6957e4fa89230ade8ac59ace65ea4295.bindTooltip(
+                `<div>
+                     1342 S ELWOOD ST, LOS ANGELES, CA, 90021
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2c7091f80a32f82edf730ab7ad38fbb0 = L.circleMarker(
+                [34.014369428571435, -118.297508],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_ae529f977584acdcd80844afe3866d6d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1fc2c8942da6b6d1e3c27afe1181f630 = $(`<div id="html_1fc2c8942da6b6d1e3c27afe1181f630" style="width: 100.0%; height: 100.0%;"><b>1201 W 39TH PL, LOS ANGELES, CA, 90037</b><br>EMPOWERMENT CONGRESS NORTH AREA NC<br>reports: 63 | median gap: 2.0 d<br><i>refills every 1-2 days</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.014369,-118.297508' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_ae529f977584acdcd80844afe3866d6d.setContent(html_1fc2c8942da6b6d1e3c27afe1181f630);
+            
+        
+
+        circle_marker_2c7091f80a32f82edf730ab7ad38fbb0.bindPopup(popup_ae529f977584acdcd80844afe3866d6d)
+        ;
+
+        
+    
+    
+            circle_marker_2c7091f80a32f82edf730ab7ad38fbb0.bindTooltip(
+                `<div>
+                     1201 W 39TH PL, LOS ANGELES, CA, 90037
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1fe7b093e69c3f1c839a6c53cde9efce = L.circleMarker(
+                [34.058439, -118.2653325],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_7c1f5a7bb201f07c6d86255e9f390cf5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_965a9e72b2cd19a9a8ae74445aa36802 = $(`<div id="html_965a9e72b2cd19a9a8ae74445aa36802" style="width: 100.0%; height: 100.0%;"><b>345 COLUMBIA AVE, LOS ANGELES, CA, 90017</b><br>WESTLAKE NORTH NC<br>reports: 63 | median gap: 1.4 d<br><i>32% gone-on-arrival; refills every 1-2 days</i><br><a href='https://www.google.com/maps/search/?api=1&query=34.058439,-118.265332' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_7c1f5a7bb201f07c6d86255e9f390cf5.setContent(html_965a9e72b2cd19a9a8ae74445aa36802);
+            
+        
+
+        circle_marker_1fe7b093e69c3f1c839a6c53cde9efce.bindPopup(popup_7c1f5a7bb201f07c6d86255e9f390cf5)
+        ;
+
+        
+    
+    
+            circle_marker_1fe7b093e69c3f1c839a6c53cde9efce.bindTooltip(
+                `<div>
+                     345 COLUMBIA AVE, LOS ANGELES, CA, 90017
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d9012f2c07ba2bae424b37666bc08b36 = L.circleMarker(
+                [33.981850159864535, -118.31337789311632],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.85, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 2}
+            ).addTo(map_7bd5344c659cd44f8ca901f6727508b6);
+        
+    
+        var popup_28607caceae5b45e9bd82625d2e30c1b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8db0946746d7199374ff1797e310028d = $(`<div id="html_8db0946746d7199374ff1797e310028d" style="width: 100.0%; height: 100.0%;"><b>GRAMERCY PL and GAGE AVE</b><br>EMPOWERMENT CONGRESS CENTRAL AREA NC<br>reports: 60 | median gap: 2.0 d<br><i>refills every 1-2 days</i><br><a href='https://www.google.com/maps/search/?api=1&query=33.981850,-118.313378' target='_blank'>Open in Google Maps</a></div>`)[0];
+                popup_28607caceae5b45e9bd82625d2e30c1b.setContent(html_8db0946746d7199374ff1797e310028d);
+            
+        
+
+        circle_marker_d9012f2c07ba2bae424b37666bc08b36.bindPopup(popup_28607caceae5b45e9bd82625d2e30c1b)
+        ;
+
+        
+    
+    
+            circle_marker_d9012f2c07ba2bae424b37666bc08b36.bindTooltip(
+                `<div>
+                     GRAMERCY PL and GAGE AVE
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
