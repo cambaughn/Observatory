@@ -204,6 +204,25 @@ is clean or merely unreported: field visit + CD10/LSD interview. The
 program's best natural experiment on what makes a chronic site stop.
 Evidence: notebook 06 (postscript); laist.com coverage.
 
+### F21. Top "places" are largely address-stacks; the micro-area is the real unit *(2026-07-08)*
+
+Forensic check of the field-program sites: 6 of 9 Valley sites (and
+several citywide ones) have **100% of reports at one exact coordinate
+with one address string, 91–100% self-service** — web reports geocoded to
+a named parcel, not GPS readings at a curb. Meanwhile every site sits in
+a hot micro-area: the pin accounts for only **~4–40% (typically 10–17%)
+of dumping reports within 250m** (e.g., Delano St: 58 at the pin, 433
+more at 130 nearby spots). Implications: (a) the 20m place ranking is
+biased toward addresses reporters *name* — confirmed and quantified
+version of notebook 05's geocode-bin caveat on F17; (b) field
+investigation must cover the block, not the address (notebook 07 now
+shows all surrounding report-stacks per stop); (c) single-stack sites
+may reflect a chronic *reporter* as much as a chronic *pile* (RT-11).
+Counter-examples that look like genuine physical clusters: 14102 Delano
+(7 coords, 8 address variants, 55% phone), 17900 Sherman Way (7 coords).
+Evidence: scripts/build_field_area_context.py output;
+data/processed/field_site_diagnostics.csv.
+
 ---
 
 ## Open questions
@@ -311,6 +330,9 @@ places can distinguish "cleaned up" from "gave up reporting."
   O14–O15; first field-visit target list produced (20 ranked sites, six-visit
   program); council district boundaries added to data/raw (download script
   extended).
+- 2026-07-08 — Address-stack forensics (user-prompted sanity check): added
+  F21, RT-11; notebook 07 stop maps now show 350m area context; F17's
+  geocode-bin caveat upgraded from suspicion to quantified finding.
 - 2026-07-07 — Notebook 06 (SFV neighborhood calibration): added F19–F20;
   full field program produced (10 citywide + 9 Valley targets in
   data/processed/field_program_nb06.csv + 5 clean comparison corridors).

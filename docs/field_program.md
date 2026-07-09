@@ -231,6 +231,11 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 ## Section B — Valley Route
 
+**Pin caveat (F21):** most pins below are *single-address stacks* — the
+address people file under, not necessarily the exact curb. The surrounding
+block typically holds 5–10x more reports. Drive/walk the area; the
+notebook's stop maps show every nearby report-stack.
+
 All nine Valley sites, ordered as one loop (~35 miles of driving,
 west → east → south). Addresses are ZIP-accurate for maps.
 
