@@ -40,15 +40,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.067373,-118.292947)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** **THE headline site.** Citywide #1, fully encampment-serviced (LSD), reported ~daily for 3.5 months — then **silent since Apr 17**. Encampment at the vacant SE-corner lot was resolved in late April. Look for: what changed? Fencing? Cleared lot? Is the street actually clean? (RT-01/02/03)
 
@@ -59,15 +69,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.078887,-118.222470)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** Encampment-adjacent (LSD), refills daily, near river/rail. 0% gone-on-arrival — piles always there when crews arrive.
 
@@ -78,15 +98,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.200925,-118.522869)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** Valley anchor of the Sherman Way corridor (see Route). Mixed servicing (27% LSD), 27% gone-on-arrival.
 
@@ -97,15 +127,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=33.959027,-118.443930)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** The oddball: 76 reports in a *low-dumping district*, burst re-reporting (median gap 0 days). One angry building? One chronic pile? Worth solving.
 
@@ -116,15 +156,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.097350,-118.306001)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** Dense-residential refill corner, no LSD. 27% gone-on-arrival.
 
@@ -135,15 +185,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.072258,-118.292527)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** **Pair with site #1** (400m apart): the non-encampment control that *stayed active* after #1 went quiet. Same street grid, different mechanism?
 
@@ -154,15 +214,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.025144,-118.235584)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** Encampment-adjacent, sub-daily re-reports, 8% gone-on-arrival.
 
@@ -173,15 +243,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.014369,-118.297508)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** Classic residential refill corner in the highest-intensity APC.
 
@@ -192,15 +272,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.058439,-118.265332)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** **32% gone-on-arrival** — highest on this list. Who clears it first?
 
@@ -211,15 +301,25 @@ Regenerate anytime: `python scripts/build_field_maps.py`
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=33.981850,-118.313378)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** Intersection refill site; mostly regular LASAN service.
 
@@ -246,15 +346,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.200306,-118.521248)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** start of the corridor pair. Walk east from here.
 
@@ -265,15 +375,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.200925,-118.522869)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** 90m away. Key question: one continuous condition or two distinct spots? What's between them?
 
@@ -284,15 +404,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.163793,-118.519947)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** *chronic pocket inside a clean neighborhood.* Just off the Ventura corridor. Why THIS street? (Newcastle Ave & White Oak Ave pockets are 1–2 blocks over if time allows.)
 
@@ -303,15 +433,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.182407,-118.440532)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** the Valley dumping capital's top site; 31% gone-on-arrival. Erwin St (41 reports) is 3 blocks south if time allows.
 
@@ -322,15 +462,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.240833,-118.449612)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** the *gone-on-arrival anomaly* area: reports here more often end with nothing collected, and closures are slowest. Does the street look scavenged?
 
@@ -341,15 +491,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.200450,-118.417118)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** encampment-adjacent (LSD), eastern Sherman Way. Compare with the Reseda end of the same street from stop 1–2.
 
@@ -360,15 +520,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.175602,-118.381488)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** encampment-adjacent archetype on the NoHo spine.
 
@@ -379,15 +549,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.143093,-118.372261)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** *the clean-area ceiling.* This is as bad as Studio City gets. Calibrate: how does the worst spot in a clean neighborhood compare to an average Van Nuys corner?
 
@@ -398,15 +578,25 @@ west → east → south). Addresses are ZIP-accurate for maps.
 
 [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=34.161741,-118.446466)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** moderate-area top site; end of loop.
 
@@ -432,15 +622,25 @@ private security/BID crews, renter vs owner housing stock.
 
 [Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Ventura+Blvd+%26+Laurel+Canyon+Blvd,+Studio+City,+CA)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** citywide mix, **zero** chronic sites. Primary control; one NC boundary from Van Nuys. Covered by Route stops 8–9.
 
@@ -451,15 +651,25 @@ private security/BID crews, renter vs owner housing stock.
 
 [Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Ventura+Blvd+%26+Van+Nuys+Blvd,+Sherman+Oaks,+CA)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** case: same boulevard as Studio City, 2km from Van Nuys's worst blocks.
 
@@ -470,15 +680,25 @@ private security/BID crews, renter vs owner housing stock.
 
 [Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Warner+Center,+Woodland+Hills,+CA)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** engagement (13.4K cases — heavy reporters, few dump reports). Best commercial-corridor control. West of Reseda; pairs with Route stop 1 day.
 
@@ -489,15 +709,25 @@ private security/BID crews, renter vs owner housing stock.
 
 [Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Granada+Hills,+Los+Angeles,+CA)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** Valley control — demographically closer to Reseda than Porter Ranch is.
 
@@ -508,15 +738,25 @@ private security/BID crews, renter vs owner housing stock.
 
 [Open area in Google Maps](https://www.google.com/maps/search/?api=1&query=Porter+Ranch,+Los+Angeles,+CA)
 
-- **Generating it?**
-- **Why here, not nearby?**
-- **Data's explanation accurate?** (yes / partly / no):
-- **Site features** (keep what applies): alley, vacant lot, apartments, commercial, industrial, loading dock, encampment, bus stop, freeway ramp, parking lot, retaining wall, fence/blank wall, tree well/landscaping, dumping signs, public trash cans, bulky-pickup signage
-- **Lighting** (good/fair/poor): · **Camera** (y/n): · **Visibility** (hidden/mixed/high):
-- **Vehicle access** (easy/hard): · **Truck access** (easy/hard):
-- **Evidence of repeated cleanup** (y/n): · **repeated dumping** (y/n):
-- **Worth interviewing** (business/resident/city worker/BID/security/other):
-- **Unexpected / surprising / new research question?**
+**Field Taxonomy** (keep what applies; add detail after any item):
+
+- **Land use:** apartment/multifamily · single-family residential · retail/commercial · industrial · mixed-use · vacant lot
+- **Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+- **Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+- **Visibility / surveillance:** hidden from traffic · hidden from nearby buildings · high visibility · poor lighting (if observed) · security cameras visible
+- **Ownership / responsibility:** clearly public · clearly private · ambiguous ownership
+- **Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other maintenance issues:
+- **Evidence observed:** active dumping present · old dumping remnants · evidence of repeated cleanup · bulky furniture · construction debris · household trash · unknown
+
+**Initial interpretation** (observational — not conclusions):
+
+- What seems to make this place attractive?
+
+- What surprised me?
+
+- What would I change first?
+
+**Close-out:** Data's explanation accurate? (yes/partly/no): · Worth interviewing (business/resident/city worker/BID/security/other):
 
 **Site-specific notes:** citywide minimum among engaged NCs. The near-zero anchor; note how much built form (HOA, no alleys, no aging commercial strip) explains before any city service does.
 
@@ -562,22 +802,37 @@ One generic copy for paper use — print a few, fill in the site by hand.
 
 **Site:** ____________________________ **Date / time:** ____________________
 
-_Circle what applies, fill the blanks:_
+_Circle what applies:_
 
-- **Generating it?** __________________ · **Why here, not nearby?** __________________
-- **Data's explanation accurate?** yes · partly · no
-- **Site:** alley · vacant lot · apartments · commercial · industrial · loading dock · encampment · bus stop · freeway ramp · parking lot · retaining wall · fence/blank wall · tree well/landscaping · dumping signs · public trash cans · bulky-pickup signage
-- **Lighting:** good · fair · poor — **camera:** y · n — **visibility:** hidden · mixed · highly visible
-- **Access:** vehicle easy · hard — truck easy · hard
-- **Evidence of:** repeated cleanup y · n — repeated dumping y · n
-- **Worth interviewing:** business · resident · city worker · BID · security · other: ______
-- **Unexpected / surprising / new research question?** __________________
+**Land use:** apartment/multifamily · single-family · retail/commercial · industrial · mixed-use · vacant lot
+
+**Disposal infrastructure:** shared dumpsters · shared curb bins · private bins · overflowing bins · no nearby bins
+
+**Physical geometry:** alley · parking entrance · median/island · wall/fence · retaining wall · wide sidewalk · recessed area · loading dock · bus stop
+
+**Visibility / surveillance:** hidden from traffic · hidden from buildings · high visibility · poor lighting · cameras visible
+
+**Ownership:** clearly public · clearly private · ambiguous
+
+**Existing disorder:** graffiti · litter · weeds · neglected landscaping · broken pavement · other: ______
+
+**Evidence observed:** active dumping · old remnants · repeated-cleanup signs · bulky furniture · construction debris · household trash · unknown
+
+**What seems to make this place attractive?**
+
+________________________________________________________________
+
+**What surprised me?**
+
+________________________________________________________________
+
+**What would I change first?**
+
+________________________________________________________________
+
+**Close-out:** data's explanation accurate? yes · partly · no — worth interviewing: business · resident · city worker · BID · security · other ______
 
 **Notes:**
-
-________________________________________________________________
-
-________________________________________________________________
 
 ________________________________________________________________
 
