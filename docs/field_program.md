@@ -1,5 +1,9 @@
 # Field Program
 
+**Canonical version: [notebooks/07_field_program.ipynb](../notebooks/07_field_program.ipynb)**
+(embeds the maps directly; built for laptop/tablet field-day planning).
+This markdown copy remains for quick phone reference.
+
 Phone-friendly guide for site visits. Data: Jan–Jun 2026, notebook 06.
 Before each stop: skim the hypotheses; at each stop: fill
 `field-notes/field_visit_template.md` (copy per site, or one per day with
