@@ -1,10 +1,16 @@
-# Weyland Research Questions
+# Weyland Research Questions — Cross-Domain Backlog
 
 This file intentionally contains questions, not tasks.
 
 As questions are answered, new ones should be added.
 
 The project succeeds by improving our understanding of how cities function.
+
+This is the backlog of questions that belong to no single research domain
+yet — several sections here (graffiti, corridors, BIDs) are seeds of
+possible future domains. Questions owned by an active domain live in that
+domain's `questions.md` (e.g.
+[illegal-dumping/questions.md](../illegal-dumping/questions.md)).
 
 ---
 
@@ -14,15 +20,6 @@ The project succeeds by improving our understanding of how cities function.
 - What does each dataset actually measure?
 - What important things are not captured?
 - What assumptions or biases exist in the data?
-
----
-
-## Illegal Dumping
-
-- Where are the worst repeat illegal dumping hotspots?
-- Which locations experience the highest recurrence rate?
-- Are hotspots stable over time or do they migrate?
-- What factors appear to correlate with repeat dumping?
 
 ---
 
@@ -67,14 +64,6 @@ The project succeeds by improving our understanding of how cities function.
 - Which corridors are improving?
 - Which corridors are deteriorating?
 - Which corridors experience chronic recurring issues?
-
----
-
-## Field Investigation
-
-- Which locations should we physically visit?
-- Which data patterns contradict reality?
-- What observations should become part of our own proprietary dataset?
 
 ---
 

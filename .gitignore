@@ -1,4 +1,6 @@
+# data payloads: any domain's data/ dir, and the shared dataset store
 data/
+shared/datasets/
 *.duckdb
 *.duckdb.wal
 .ipynb_checkpoints/

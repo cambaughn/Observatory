@@ -5,8 +5,8 @@ instead of re-deriving these decisions. If an analysis deviates from a
 standard, it must say so explicitly and say why.
 
 Established 2026-07-06 from checkpoints 2–3 (see
-[`myla311.md`](datasets/myla311.md) and
-[`myla311_operational_model.md`](datasets/myla311_operational_model.md)).
+[`myla311.md`](../shared/references/myla311.md) and
+[`myla311_operational_model.md`](../shared/references/myla311_operational_model.md)).
 This is a living document — amend it when evidence changes, and note the
 change in [`observatory_findings.md`](observatory_findings.md).
 
@@ -34,7 +34,7 @@ exactly these defaults ("Standard operational filter, per
 
 Copy-paste this into notebooks (per project principles we copy, not import,
 until duplication becomes painful — when it does, this becomes the first
-candidate for `analysis/`):
+candidate for the domain's `analysis/`):
 
 ```python
 INTAKE_ARTIFACTS = {"Information-Only", "Feedback", "Program Research"}
@@ -147,8 +147,8 @@ Notes:
 
 ## 8. Known data quality issues (running list)
 
-From [`myla311.md`](datasets/myla311.md) and
-[`myla311_operational_model.md`](datasets/myla311_operational_model.md):
+From [`myla311.md`](../shared/references/myla311.md) and
+[`myla311_operational_model.md`](../shared/references/myla311_operational_model.md):
 
 1. ~5% missing coordinates; junk values outside plausible bounds.
 2. `Owner`: 96 values needing normalization; test records present.
@@ -175,10 +175,15 @@ From [`myla311.md`](datasets/myla311.md) and
 
 - One question per notebook, stated in the first cell, numbered
   sequentially (`03_…`, `04_…`).
+- Each domain numbers its notebooks independently, starting at `01_…`.
+  Cross-domain citations name the domain ("dumping notebook 06").
+  *Grandfathered exception:* illegal dumping keeps 04–07 — those numbers
+  are load-bearing in the findings ledger, tracker, and derived filenames
+  (`field_program_nb06.csv`); do not renumber them.
 - State filters (§1), assumptions (§6), and any cutoffs up front.
-- Raw data is never modified; derived datasets go to `data/processed/`
+- Raw data is never modified; derived datasets go to the domain's `data/processed/`
   with the producing notebook named in the filename or a README line.
 - Deterministic sampling (`random_state=…`) so reruns match.
 - End with: findings (→ promote durable ones to
   [`observatory_findings.md`](observatory_findings.md)) and new questions
-  (→ [`research_questions.md`](research_questions.md)).
+  (→ the domain's `questions.md`, or [`research_questions.md`](research_questions.md) for cross-domain questions).

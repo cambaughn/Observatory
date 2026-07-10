@@ -15,7 +15,7 @@ The old "Service Request Data" era (2015–2025, ~12 request types) ends
 Nov 3, 2025; a Salesforce-based "Cases" era begins (62 request types, new
 schema). Historical continuity is broken at the migration boundary; no
 cross-era comparison without explicit mapping.
-Evidence: [`datasets/myla311.md`](datasets/myla311.md).
+Evidence: [`shared/references/myla311.md`](../shared/references/myla311.md).
 
 ### F2. ~24% of 311 cases are intake artifacts, not maintenance requests *(2026-07-06)*
 
@@ -32,7 +32,7 @@ work performed vs. crew-found-nothing vs. administrative closure vs.
 duplicate/cancelled. 32% of closures are bare `C-Closed` (outcome unknown).
 Standardized into seven outcome classes in
 [`analysis_standards.md` §5](analysis_standards.md).
-Evidence: notebook 02, [`datasets/myla311_operational_model.md`](datasets/myla311_operational_model.md).
+Evidence: notebook 02, [`shared/references/myla311_operational_model.md`](../shared/references/myla311_operational_model.md).
 
 ### F4. Enormous dispatched-but-wasted capacity: `QC-Item Not Out` *(2026-07-06)*
 
@@ -154,7 +154,7 @@ into **duplicate pressure** (21% of repeat-gaps <1 day — re-reports of a
 standing pile) and **genuine refill cycles** (median gap ~10 days, 25% of
 gaps >30 days). Dumping reports are ~100% geocoded (14 missing of 231.5K).
 Evidence: notebook 05; field list in
-`data/processed/dumping_field_candidates_nb05.csv`.
+`illegal-dumping/data/processed/dumping_field_candidates_nb05.csv`.
 
 ### F18. Hotspots are two-tier: an anchored chronic top over a churning middle *(2026-07-07)*
 
@@ -184,7 +184,7 @@ barely varies (75–89%) across a 0.59x–1.60x demand-mix range —
 **recurrence is the universal structure of dumping, not a bad-neighborhood
 trait**; neighborhoods differ in chronic-place count and intensity.
 Evidence: notebook 06; field program in
-`data/processed/field_program_nb06.csv`.
+`illegal-dumping/data/processed/field_program_nb06.csv`.
 
 ### F20. The citywide #1 dumping site went silent in mid-April *(2026-07-07)*
 
